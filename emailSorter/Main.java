@@ -5,7 +5,9 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;   
 import java.io.IOException;
 
-
+/**
+ * This Main class serves as the main organizer of file reads, processing, and file outputs.
+ */
 public class Main {
 
     public static void main(String... args) {   
