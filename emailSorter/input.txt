@@ -1,0 +1,7 @@
+abc@abc.com
+cde@yahoo.com
+joe@npr.org
+rwq@abc.org
+dave@gibson.com
+just"not"right@example.com
+Abc.example.com
